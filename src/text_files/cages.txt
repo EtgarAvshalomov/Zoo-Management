@@ -1,0 +1,2 @@
+220ef370-95d6-4d64-82f8-8cf65e0dd72f,EAGLE,FLYING,3,false
+dbff17c8-49b9-4cca-bb4e-7d97e85a90bc,LION,LAND,3,false
